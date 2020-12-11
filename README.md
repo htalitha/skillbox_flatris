@@ -10,5 +10,6 @@ WARNING: after running this script OS will reboot and will run app when you are 
 
 Check 'localhost:3000' in several minutes after reboot.
 
-To stop container use 'docker-compose down' command at the ~/skillbox directory.
-To view interactive logs and delete unusefull docker containers and images use 'docker-compose logs -f' command.
+To stop container use 'docker-compose down' command at the '~/skillbox' directory.
+
+To view interactive logs and delete unusefull docker containers and images use 'docker-compose logs -f' command at the same directory.
