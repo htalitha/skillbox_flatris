@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install docker.io docker-compose
+sudo apt -y install git vim docker.io docker-compose
 sudo gpasswd -a $USER docker
 git clone https://github.com/htalitha/skillbox.git ~/skillbox
 cd ~/skillbox
