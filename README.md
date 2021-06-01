@@ -1,4 +1,4 @@
-The script, that aloows automate skillbox  exersize to run flatris app (https://github.com/htalitha/skillbox.git) as a container at Ubuntu 20.04.1 LTS.
+The script, that allows automate skillbox  exersize to run flatris app (https://github.com/htalitha/skillbox.git) as a container at Ubuntu 20.04.1 LTS.
 
 How to use:
 
